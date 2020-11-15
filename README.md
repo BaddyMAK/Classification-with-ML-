@@ -18,7 +18,7 @@ Two options are exist for cleaning the data: manually by editing the original CS
 In order to manage the NaN values the following two approaches were applied:
 •	Removing the rows containing NaN values using the methods dropna of Pandas. 
 •	Treating NaN values as another possible random variable but must be substituted with a number not already presented in the dataset. In this report -3 was chosen as random value.
-## The Chronic kidney disease (CKD) (it mentioned in my clustering repository also :
+## The Chronic kidney disease (CKD) (it was mentioned in my clustering repository also ):
 A disease that affects the Kidney’s functionality. The kidney may loses its function for a period of months or years. This kind of disease has many causes where the major one is diabetes, high blood pressure, glomerulonephritis and polycystic kidney disease. Diagnosis is generally by blood tests to measure the glomerular filtration rate and urine tests to measure albumin.
 
 ## Results and discussion
