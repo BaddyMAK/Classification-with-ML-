@@ -1,4 +1,4 @@
-# Classification-with-ML-
+# Binary_Classification-with-DT-scikit
 # Chronic kidney disease classification by Decision tree 
 ## Objectives
 This work aims to perform binary classification of chronic kidney disease using the C4.5 algorithm of scikit-learn. Here I need to estimate the last column from the remained features using the Scikit Learn Python library that implements C4.5 or similar algorithm for hierarchical classification.
